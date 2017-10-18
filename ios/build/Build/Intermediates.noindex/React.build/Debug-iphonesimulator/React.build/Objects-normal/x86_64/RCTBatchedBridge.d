@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTBatchedBridge.m \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native/React/Modules/RCTDevLoadingView.h

@@ -1,0 +1,6 @@
+<resources>
+
+
+<string name="RNB_GOOGLE_PLAY_LICENSE_KEY">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhsfKzcz5Vx4a64rYZ85NPgWDSykQl7hrKfgtIIVFKBHGB7CFxyDEvP8H43lZv+QDa1r1yXz34PlBFI+MBileg+DdnJs5YAuxnA0yLBXskACyRRiCsVUsJEhXo127uzx3OIANKasVoBnIY44MdmMgELP1n39dPY4PzW0Z6UY0PfIJctryTdcHUXMlLYFJLj0DNPzS/VtabRcCnSnWSZjs7kExzkYftY6jxYd8sxHrQr7agHiUB+pt1nd3q4hVc4jDi3njozI3V/Q1Mct3GjjrJSLKb3ewurxBlgNkIeQIYF6gdztWKIV9QdYB+IO3r2p7ch2K/ZdK1q6aE7I89A8ZgQIDAQAB</string>
+    <string name="app_name">Tourizen</string>
+</resources>

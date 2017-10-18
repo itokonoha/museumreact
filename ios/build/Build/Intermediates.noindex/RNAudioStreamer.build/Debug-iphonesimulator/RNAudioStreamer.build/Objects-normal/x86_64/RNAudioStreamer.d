@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/RNAudioStreamer.m \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/RNAudioStreamer.h \
+  ../../react-native/React/Base/RCTBridgeModule.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/src/DOUAudioStreamer.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/src/DOUAudioBase.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/src/DOUAudioFile.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/src/DOUAudioFilePreprocessor.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/src/DOUAudioAnalyzer+Default.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/src/DOUAudioAnalyzer.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/RNAudioFileURL.h \
+  /Users/admin/Documents/work/museumreact/node_modules/react-native-audio-streamer/ios/RNAudioStreamer/src/DOUAudioStreamer+Options.h \
+  ../../react-native/React/Base/RCTEventDispatcher.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/admin/Documents/work/museumreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
